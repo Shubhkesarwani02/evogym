@@ -1,5 +1,5 @@
 
-# REACT + TYPESCRIPT - EVOGYM #
+# React + Typescript - EVOGYM #
 
 
 ## *Installation* ##
